@@ -1,0 +1,45 @@
+body
+{
+    background-color: #7644444f;
+}
+
+.header-div
+{
+    text-align: center;
+    margin-left: 100px;
+}
+
+img
+{
+    width: 500px;
+    height: auto;
+}
+
+.inner-div h2
+{
+    font-size: 16px;
+}
+
+.inner-div
+{
+    background-color: #24aea713;
+    width: 60%;
+    margin: 0% 20% 0 20%;
+    padding: 20px;
+}
+
+.frontpage-link
+{
+    width: 59%;
+    height: auto;
+    padding: 1.5%;
+    background-color: #24aea713;
+    margin: 0% 20% 0 20%;
+    text-align: right;
+}
+
+.frontpage-link a
+{
+    font-weight: 900;
+    font-size: 20px;
+}
