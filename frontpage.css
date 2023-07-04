@@ -10,29 +10,25 @@ body
     background-color: #24aea713;
     width: 60%;
     height: 80px;
-    text-align: center;
-    margin: 0 20%;
+    display: flex ;
+    justify-content: center;
+    margin:auto;
+    margin-bottom: 0.5%;
 }
 
 .upper-div h1
 {
     font-family: 'Roboto', sans-serif;
     color: rgb(0, 0, 0);
-    text-align: center;
-    padding: 20px;
-}
-
-ul
-{
-    font-family: 'Rubik', sans-serif;
-    list-style-type: none;
+    padding: 2px;
 }
 
 .selection-div
 {
     width: 60%;
     padding: 0;
-    margin: -0.5% 20% 0 20%;
+    margin: auto;
+    margin-bottom: 0.5%;
     background-color: #24aea713;
 }
 
@@ -45,17 +41,23 @@ ul
 .selection-div li
 {
     display: inline-block;
-    margin-left: 70px;
-    padding: 2px;
-    width: 300px;
+    margin: 0 5% 0 0;
+    padding: 30px;
+    width: auto;
     height: auto;
+}
+
+ul
+{
+    font-family: 'Rubik', sans-serif;
+    list-style-type: none;
 }
 
 .image-div
 {
     width: 60%;
     padding: 0;
-    margin: -0.5% 20% 0 20%;
+    margin: auto;
     background-color: #24aea713;
 }
 
